@@ -25,6 +25,7 @@ motor
 mutagen
 markdown
 natsort
+pyrofork==2.2.11
 pillow
 psutil
 pybase64
